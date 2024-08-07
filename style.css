@@ -11,6 +11,10 @@ body {
   place-items: center;
   /* если что-то не помещается на своё место — скрываем то, что не поместилось */
   overflow: hidden;
+
+  background-image: url('https://cdn.glitch.global/5ed9b7bb-13d5-43c8-bfb0-d3b19cc97455/%E2%80%94Pngtree%E2%80%94desktop%20texture%20pattern%20wood%20grain_1429780.jpg?v=1707427826744');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* общий блок для всех элементов */
@@ -188,7 +192,5 @@ body {
   }
 } 
 
-    background-image: url('https://cdn.glitch.global/5ed9b7bb-13d5-43c8-bfb0-d3b19cc97455/%E2%80%94Pngtree%E2%80%94desktop%20texture%20pattern%20wood%20grain_1429780.jpg?v=1707427826744');
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+  
+
